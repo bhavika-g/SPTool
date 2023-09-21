@@ -7,9 +7,9 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter import ttk as ttk
 
-import DataRead as DR
-import DataAnalyze as DA
-import GenFolderStruct as GFS
+#import DataRead as DR
+#import DataAnalyze as DA
+#import GenFolderStruct as GFS
 import shutil
 import DataAnalysisCode as DAC
 
